@@ -1,0 +1,13 @@
+GE
+
+ Story: Staying in the poisoned water is hurting Feesh. If he doesn't get home in 30 seconds... he will die! 
+Help Feesh get home safely by collecting fish scales to speed him up. Move Feesh up and down by pressing the arrow keys. 
+You can also choose to drop fish scales to save Feesh's animal friends and make them move in the right direction!
+
+ Character: feesh1
+
+ Animals: jellyfish2 pup2
+
+ Objects: coral2 fruit2 leaf3 mushroom3
+
+ Health: scale  

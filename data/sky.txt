@@ -1,0 +1,12 @@
+GE
+
+ Story: Scooter is flying in the night sky and it's getting dark. He needs to find his way home! To do that, Scooter must 
+eat "fireflies" to stay alive on his journey home!
+
+ Character: scooter1
+
+ Animals:
+
+ Objects: bridge1 tree2 mountain4
+
+ Health: firefly

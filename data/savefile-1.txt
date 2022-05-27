@@ -1,0 +1,9 @@
+SF
+
+ Name: Empty Slot
+
+ LevelsPlayed: 
+
+ LevelsCompleted: 
+
+ Highscore:
